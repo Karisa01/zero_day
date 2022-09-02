@@ -1,1 +1,1 @@
-vagrant
+my first mini file
